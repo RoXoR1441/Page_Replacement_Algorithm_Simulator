@@ -1,13 +1,8 @@
 /*
  * Program to simulate FIFO, LRU, and OPTIMAL page replacement algorithms given
  * list of page accesses and number of physical frames
- *
- * Sukrut Rao
- * CS15BTECH11036
- *
  * To compile the program, use
  * g++ <filename> -o <executablename> --std=c++11
- *
  * To execute the program, use
  * ./<executablename> <replacementalgorithm>
  */
